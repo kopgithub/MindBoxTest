@@ -6,6 +6,9 @@ using System.Linq;
 
 namespace UsingFigure
 {
+    /// <summary>
+    /// Проверка наших трудов...
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
